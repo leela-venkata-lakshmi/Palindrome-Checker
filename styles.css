@@ -1,0 +1,53 @@
+body{
+  color:white;
+   display: flex;
+   flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  background-color:#0e051f;
+  height:100vh;
+  margin:0;
+  padding:0;
+}
+#ip{
+  background-color:white;
+  color:black;
+   align-items:center;
+  justify-content:center;
+  display: flex;
+  padding-top:20px;
+  padding-bottom:20px;
+  flex-direction: column;
+  box-shadow:1px 3px #5f02f2;
+}
+#defi{
+   display:flex;
+  background-color:#094719;
+  font-size:21px;
+}
+.same{
+  border-radius:10px;
+  margin:15px;
+   padding:10px;
+   width:340px;
+}
+#text-input{
+  height:25px;
+  border:none;
+  border-bottom:2px solid #340a78;
+}
+#check-btn{
+  background-color:#340a78;
+  color:white;
+  border-radius:10px;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:5px;
+  padding-bottom:5px; 
+}
+img{
+  width:220px;
+}
+#result{
+  font-size:25px;
+}
